@@ -8,4 +8,4 @@ category: work
 related_publications: true
 ---
 
-{% cite Winchenbach2024SFBC %}
+{% cite einstein1950meaning %}.
