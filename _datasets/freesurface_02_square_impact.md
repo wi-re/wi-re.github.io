@@ -2,7 +2,7 @@
 layout: page
 title: Impact of two Squares
 description: with background image
-img: assets/validation/squarePatch.gif
+img: assets/img/validation/squarePatch.gif
 importance: 1
 category: freesurface
 related_publications: true

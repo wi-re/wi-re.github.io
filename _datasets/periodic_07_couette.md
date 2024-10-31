@@ -2,7 +2,7 @@
 layout: page
 title: Couette Flow
 description: with background image
-img: assets/img/12.jpg
+# img: assets/img/12.jpg
 importance: 1
 category: periodic
 related_publications: true
