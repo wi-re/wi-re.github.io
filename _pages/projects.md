@@ -2,10 +2,10 @@
 layout: page
 title: projects & solvers
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A collection of solvers and other projects I have written in the past or am currently working on.
 nav: true
 nav_order: 3
-display_categories: [work, fun, solver]
+display_categories: [solver, work, fun]
 horizontal: false
 ---
 
