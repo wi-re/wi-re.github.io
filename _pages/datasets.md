@@ -5,7 +5,7 @@ permalink: /datasets/
 description: A collection of both validation cases, including their setup and execution with diffSPH (if implemented), and also datasets that can be used for training networks. Validation cases will also eventually contain sample trajectories for testing.
 nav: true
 nav_order: 3
-display_categories: [periodic, closed, boundary, freesurface, simulation]
+display_categories: [periodic, closed, boundary, freesurface, simulation, dataset]
 horizontal: false
 ---
 
