@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Impact of two Squares
+title: Rotating Square Patch
 description: Has Example
-img: assets/img/validation/square_impact.gif
+img: assets/img/validation/rotatingPatch.png
 importance: 1
 category: freesurface
 related_publications: true

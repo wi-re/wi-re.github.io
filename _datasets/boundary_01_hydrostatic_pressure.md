@@ -2,10 +2,12 @@
 layout: page
 title: Still Water
 description: with background image
-# img: assets/img/12.jpg
+img: assets/img/validation/hydrostatic.png
 importance: 1
 category: boundary
 related_publications: true
 ---
 
 Nothing to see here, yet.
+
+[Implicit Incompressible SPH](https://cg.informatik.uni-freiburg.de/publications/2013_TVCG_IISPH.pdf)
