@@ -75,22 +75,51 @@ For examples on loading and visualizing the data refer to the two contained note
 
 The initial conditions show the velocity field color coded (and mapped to a grid) at $t=0$ with streamlines to visualize the flow field. The final state shows the particles color coded by their initial position/UID as particles. The UID is initialized from left to right, from bottom to top, in linear fashion.
 
-Initial Conditions | Final State
----|---
-{% include figure.liquid loading="eager" path="assets/img/datasets/initial-no-slip.png" class="img-fluid rounded z-depth-1" %} | {% include figure.liquid loading="eager" path="assets/img/datasets/final-no-slip.png" class="img-fluid rounded z-depth-1" %}
-{% include figure.liquid loading="eager" path="assets/img/datasets/initial-no-slip-obstacle.png" class="img-fluid rounded z-depth-1" %} | {% include figure.liquid loading="eager" path="assets/img/datasets/final-no-slip-obstacle.png" class="img-fluid rounded z-depth-1" %}
+
+<div class="row">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/datasets/initial-no-slip.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/datasets/final-no-slip.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/datasets/initial-no-slip-obstacle.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/datasets/final-no-slip-obstacle.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Initial conditions on the left, final state on the right
+</div>
 
 
 ## Dataset example trajectory
 
-Example training case for base Frequency = 1, octaves = 3:
+<div class="row">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/datasets/output_zero_128x2x1.0x3x0_2024_11_03-16_40_46.gif" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/datasets/output_zero_wObstacle_128x2x1.0x3x0_2024_11_03-22_50_01.gif" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+Example training case for base Frequency = 1, octaves = 3
+</div>
 
-no obstacle | with obstacle
----|---
-{% include figure.liquid loading="eager" path="assets/img/datasets/output_zero_128x2x1.0x3x0_2024_11_03-16_40_46.gif" class="img-fluid rounded z-depth-1" %} | {% include figure.liquid loading="eager" path="assets/img/datasets/output_zero_wObstacle_128x2x1.0x3x0_2024_11_03-22_50_01.gif" class="img-fluid rounded z-depth-1" %}
 
+<div class="row">
+    <div class="col-sm-5 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/datasets/output_zero_TGV_128x2x2.0_2024_11_04-15_26_01.gif" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/datasets/output_zero_wObstacle_TGV_128x2x2.0_2024_11_04-15_09_03.gif" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
 Example test case for k=2:
-
-no obstacle | with obstacle
----|---
-{% include figure.liquid loading="eager" path="assets/img/datasets/output_zero_TGV_128x2x2.0_2024_11_04-15_26_01.gif" class="img-fluid rounded z-depth-1" %} | {% include figure.liquid loading="eager" path="assets/img/datasets/output_zero_wObstacle_TGV_128x2x2.0_2024_11_04-15_09_03.gif" class="img-fluid rounded z-depth-1" %}
+</div>
