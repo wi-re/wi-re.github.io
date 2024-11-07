@@ -4,7 +4,7 @@ title: Still Water
 description: with background image
 img: assets/img/validation/hydrostatic.png
 importance: 1
-category: unlisted
+category: boundary
 related_publications: true
 ---
 

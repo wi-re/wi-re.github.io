@@ -4,7 +4,7 @@ title: Couette Flow
 description: with background image
 img: assets/img/validation/couette.png
 importance: 1
-category: periodic
+category: boundary
 related_publications: true
 ---
 

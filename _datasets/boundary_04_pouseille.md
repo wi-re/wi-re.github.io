@@ -4,7 +4,7 @@ title: Pouseille Flow
 description: Not yet implemented
 img: assets/img/validation/pouseille.png
 importance: 1
-category: periodic
+category: boundary
 related_publications: false
 ---
 
