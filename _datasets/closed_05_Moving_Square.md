@@ -2,12 +2,14 @@
 layout: page
 title: Driven Square Flow
 description: with background image
-img: assets/img/validation/movingSquare.png
+
+img: assets/img/partibench/13_DrivenSquare.png
 importance: 1
-category: closed
+category: boundary
 related_publications: true
 ---
 
-Nothing to see here, yet.
+{% include figure.liquid path="assets/img/partibench/gifs/13_DrivenSquare.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+
 
 See here [An arbitrarily Lagrangian–Eulerian SPH scheme with implicit iterative particle shifting procedure](https://www.sciencedirect.com/science/article/pii/S0045782523002839)

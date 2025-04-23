@@ -2,11 +2,14 @@
 layout: page
 title: Couette Flow
 description: with background image
-img: assets/img/validation/couette.png
+img: assets/img/partibench/10_couetteFlow.png
 importance: 1
 category: boundary
 related_publications: true
 ---
+
+{% include figure.liquid path="assets/img/partibench/gifs/14_hydroStatic.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
