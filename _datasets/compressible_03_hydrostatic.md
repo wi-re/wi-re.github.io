@@ -9,4 +9,4 @@ category: compressible
 related_publications: true
 ---
 
-{% include figure.liquid path="assets/img/partibench/compressible/hydrostatic_2d_compSPH.gif" title="example image" class="img-fluid rounded z-depth-1"zoomable=true  %}
+{% include figure.liquid path="assets/img/partibench/compressible/hydrostatic_2d_compSPH.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true  %}
