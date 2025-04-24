@@ -10,4 +10,4 @@ related_publications: true
 ---
 
 
-{% include figure.liquid path="assets/img/partibench/compressible/kidderIsentropic.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid path="assets/img/partibench/compressible/kidderIsentropic.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}

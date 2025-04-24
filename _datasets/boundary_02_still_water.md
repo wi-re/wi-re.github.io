@@ -8,7 +8,7 @@ category: boundary
 related_publications: true
 ---
 
-{% include figure.liquid path="assets/img/partibench/gifs/17_stillWater.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid path="assets/img/partibench/gifs/17_stillWater.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 Nothing to see here, yet.
 

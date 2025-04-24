@@ -8,4 +8,4 @@ category: freesurface
 related_publications: true
 ---
 
-{% include figure.liquid path="assets/img/partibench/gifs/01_sphereImpact.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid path="assets/img/partibench/gifs/01_sphereImpact.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
