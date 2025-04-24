@@ -8,7 +8,7 @@ category: simulation
 related_publications: true
 ---
 
-{% include figure.liquid path="assets/img/partibench/gifs/12_sloshingTank_actual.gif" title="example image" class="img-fluid rounded z-depth-1"zoomable=true  %}
+{% include figure.liquid path="assets/img/partibench/gifs/12_sloshingTank_actual.gif" title="example image" class="img-fluid rounded z-depth-1" zoomable=true  %}
 
 {% include figure.liquid path="assets/img/partibench/16_sloshingTank.gif" title="example image" class="img-fluid rounded z-depth-1" %}
 
