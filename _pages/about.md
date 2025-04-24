@@ -24,7 +24,7 @@ This page is a little less work in progress (last update april 2025), come back 
 
 There are now examples of all 26 simulations and validation cases available! Data soon to follow
 
-{% include figure.liquid path="assets/image.png" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid path="assets/img/image.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
