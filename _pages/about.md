@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 # profile:
 #   align: right
@@ -18,7 +18,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-This page is a work in progress (last update november 2024), come back soon for more details!
+This page is a little less work in progress (last update april 2025), come back soon for more details!
+
+# Partibench
+
+There are now examples of all 26 simulations and validation cases available! Data soon to follow
+
+{% include figure.liquid path="assets/image.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
