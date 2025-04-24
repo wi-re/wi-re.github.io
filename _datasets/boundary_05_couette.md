@@ -8,7 +8,7 @@ category: boundary
 related_publications: true
 ---
 
-{% include figure.liquid path="assets/img/partibench/gifs/14_hydroStatic.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid path="assets/img/partibench/gifs/10_couetteFlow.gif" title="example image" class="img-fluid rounded z-depth-1" %}
 
 
 Every project has a beautiful feature showcase page.
