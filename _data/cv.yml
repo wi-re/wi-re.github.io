@@ -67,7 +67,7 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/tum-pbs/diffSPH">al-folio</a>
+    - title: <a href="https://github.com/tum-pbs/diffSPH">diffSPH</a>
       year: 2022-now
       description: A fully differentiable Smoothed Particle Hydrodynamics framework for fluid simulations, built on PyTorch.
     - title: <a href="https://github.com/wi-re/openMaelstrom">openMaelstrom</a>
