@@ -18,14 +18,37 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-This page is a little less work in progress (last update april 2025), come back soon for more details!
+# DiffSPH
 
-# Partibench
+{% include figure.liquid path="assets/img/diffSPH.png" title="example image" class="img-fluid rounded z-depth-1" %}
 
-There are now examples of all 26 simulations and validation cases available! Data soon to follow
+Our fully differentiable SPH solver that can do it all just got its first public beta release!
 
-{% include figure.liquid path="assets/img/image.png" title="example image" class="img-fluid rounded z-depth-1" %}
+Included in doing it all is:
+- δ-SPH and δ+-SPH for weakly compressible simulations
+- IISPH and DFSPH for incompressible simulations
+- CompSPH, CRKSPH, PESPH and the classic Monaghan scheme for compressible simulations
+- mDBC boundary conditions for rigid bodies
+- Inlets and Oulets with buffer zones
+- Periodic BCs using minimum image conventions
+- Neumann and Dirichlet BCs
+- grad-H, kernel renormalization and CRK correction schemes
+- δ+ and implicit particle shifting
+- Monaghan and Owen schemes for adaptive particle support radii
+- Balsara, Morris, Rosswog, Cullen Dehnen artificial viscosity switches
+- Sub particle scale turbulence modelling
+- Differentiable generation of initial conditions using SDFs
+- Hierarchical and compact hashing based neighbor searching
+- Verlet lists for neighborhood searches
+- Most Common SPH Kernel Functions (Wendland, B-Spline, Poly6) used across the fields
 
+You can also:
+- Solve inverse problems
+- Use loss based physics
+- Parameter estimation
+- Shape optimization
+- Closure Modelling
+- ... and much more
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
