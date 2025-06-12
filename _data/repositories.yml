@@ -4,7 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - wi-re/diffSPH
+  - tum-pbs/diffSPH
   - wi-re/omniSPH
   - wi-re/tbtSVD
   - wi-re/openMaelstrom

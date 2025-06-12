@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OpenMaelstrom
+title: OmniSPH
 description: A description of the omniSPH solver
 # img: assets/img/12.jpg
 importance: 1
@@ -8,4 +8,4 @@ category: solver
 related_publications: true
 ---
 
-Nothing to see here, yet.
+Solver for two dimensional and incompressible SPH written while at the University of Siegen. CPU only.

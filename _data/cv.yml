@@ -2,96 +2,108 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Rene Winchenbach
     - name: Date of Birth
-      value: 14th March 1879
+      value: 11th of April, 1991
     - name: Languages
-      value: English, German
+      value: German, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution:  Universität Siegen, Siegen, Germany
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - summa cum laude
+        - PhD Supervisor - Prof. Dr. Andreas Kolb
+        - title: Spatially Adaptive Smoothed Particle Hydrodynamics
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Cummulative Dissertation
+    - title: Master of Science
+      institution: Universität Siegen, Siegen, Germany
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
+        - Final Thesis topic - Framework for the effective implementation of fluid simulations on GPUs
+        - Final Grade: 1.0 (with distinction)
+    - title: Bachelor of Science
+      institution: Universität Siegen, Siegen, Germany
+      year: 2015
+      description:
+        - Final Thesis topic - Efficient GPU-based Implementation of a Pressure Solver for Incompressible SPH-Fluid Simulations
+        - Final Grade: 1.2 (with distinction)
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Wissenschaftlicher Mitarbeiter (Scientific Researcher)
+      institution: Technische Universität München, Munich, Germany
+      year: 2022-2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Machine Learning for Fluid Simulations
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Focus on machine learning methods for fluid simulations
+            - Continuous Convolutions and Graph Neural Networks
+            - Development of differentiable fluid solvers
+
+    - title: Wissenschaftlicher Mitarbeiter (Scientific Researcher)
+      institution: Universität Siegen, Siegen, Germany
+      year: 2019-2022
       description:
-        - Description 1.
-        - Description 2.
+        - title: Research on Smoothed Particle Hydrodynamics (SPH)
+          contents:
+            - Focus on adaptive SPH methods
+            - Boundary handling and fluid-structure interaction
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Student Assistant (doing research)
+      institution: Universität Siegen, Siegen, Germany
+      year: 2014-2018
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - title: Research on Smoothed Particle Hydrodynamics (SPH)
+          contents:
+            - Focus on GPU-based implementations
+            - Development of a pressure solver for incompressible SPH
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/tum-pbs/diffSPH">al-folio</a>
+      year: 2022-now
+      description: A fully differentiable Smoothed Particle Hydrodynamics framework for fluid simulations, built on PyTorch.
+    - title: <a href="https://github.com/wi-re/openMaelstrom">openMaelstrom</a>
+      year: 2017-2022
+      description: A framework for the efficient implementation of fluid simulations on GPUs, focusing on spatially adaptive SPH.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2018
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Krombacher IT Preis
+    - year: 2019
       items:
-        - Max Planck Medal
+        - GI/GDV Masters Thesis Award 
+        - Honorable Mention at the VMV Conference 
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Smoothed Particle Hydrodynamics
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Spatial Adaptivity
+        - Fluid-Structure Interaction
+        - Analytic Models
+    - title: Machine Learning
       items:
-        - Description 1.
-        - Description 2.
+        - Differentiable Solvers
+        - Continuous Convolutions
+        - Benchmarking and Validation
+    - title: Rendering and Visualization
+      items:
+        - Analytic Models
+        - Fluid Simulation Visualization
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Cycling, Running, etc.
