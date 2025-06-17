@@ -18,6 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+Here you can find the Slides for the SPHERIC 2025 World Conference via [Google Slides](https://docs.google.com/presentation/d/1v1MIkOS26l7Jr8lwATohfTIyUUz_akhI/edit?usp=sharing&ouid=107302498783065501890&rtpof=true&sd=true)
+
 # DiffSPH
 
 {% include figure.liquid path="assets/img/diffSPH.png" title="example image" class="img-fluid rounded z-depth-1" %}
