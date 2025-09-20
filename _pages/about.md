@@ -18,6 +18,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+# DiffSPH Datasets
+
+There now is a dataset for diffSPH [here](https://huggingface.co/datasets/Wi-Re/diffSPH16K). This dataset includes both compressible and incompressible problems with random and controlled initial conditions for training neural surrogates. The dataset is setup with 16K particles and consistent spatial and temporal resolutions across all problems.
+
+# SPHERIC 2025
+
+Here you can find the Slides for the SPHERIC 2025 World Conference via [Google Slides](https://docs.google.com/presentation/d/1v1MIkOS26l7Jr8lwATohfTIyUUz_akhI/edit?usp=sharing&ouid=107302498783065501890&rtpof=true&sd=true)
+
 # DiffSPH
 
 {% include figure.liquid path="assets/img/diffSPH.png" title="example image" class="img-fluid rounded z-depth-1" %}
