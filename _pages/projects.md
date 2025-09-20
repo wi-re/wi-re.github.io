@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects & solvers
+title: portfolio
 permalink: /projects/
-description: A collection of solvers and other projects I have written in the past or am currently working on.
+description: An overview of some of the things I've been up to
 nav: true
 nav_order: 3
-display_categories: [solver, work, fun]
+display_categories: [publications, workshopPapers, projects, software]
 horizontal: false
 ---
 

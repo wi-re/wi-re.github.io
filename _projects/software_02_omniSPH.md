@@ -4,7 +4,7 @@ title: OmniSPH
 description: A description of the omniSPH solver
 # img: assets/img/12.jpg
 importance: 1
-category: solver
+category: software
 related_publications: true
 ---
 
