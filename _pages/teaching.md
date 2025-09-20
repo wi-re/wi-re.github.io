@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: teaching statement
 description: A general teaching statement
 nav: true
 nav_order: 7

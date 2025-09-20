@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Multi-Level Memory Structures for Simulating and Rendering Smoothed Particle Hydrodynamics
-img: assets/img/paper_img_(7).png
+img: assets/img/publication_preview/paper_img_(7).png
 importance: 1
-category: publication
+category: publications
 related_publications: true
 ---
 

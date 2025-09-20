@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /research/
+title: research statement
 description: This statement is from mid september 2025, things may have changed.
 nav: true
 nav_order: 6

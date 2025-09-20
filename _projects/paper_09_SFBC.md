@@ -2,9 +2,9 @@
 layout: page
 title: Symmetric Basis Convolutions for Learning Lagrangian Fluid Mechanics
 description: Placeholder
-img: assets/img/paper_img_(11).png
+img: assets/img/publication_preview/paper_img_(11).png
 importance: 1
-category: publication
+category: publications
 related_publications: true
 ---
 

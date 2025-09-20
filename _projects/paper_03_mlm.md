@@ -2,9 +2,9 @@
 layout: page
 title: Multi-Level-Memory Structures for Adaptive {SPH} Simulations
 description: Placeholder
-img: assets/img/paper_img_(6).png
+img: assets/img/publication_preview/paper_img_(6).png
 importance: 1
-category: publication
+category: publications
 related_publications: true
 ---
 

@@ -2,9 +2,9 @@
 layout: page
 title: Semi-analytic boundary handling below particle resolution for smoothed particle hydrodynamics
 description: Placeholder
-img: assets/img/paper_img_(8).png
+img: assets/img/publication_preview/paper_img_(8).png
 importance: 1
-category: publication
+category: publications
 related_publications: true
 ---
 

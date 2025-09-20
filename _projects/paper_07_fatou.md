@@ -2,9 +2,9 @@
 layout: page
 title: Visualizing Optimizers using Chebyshev Proxies and Fatou Sets
 description: Placeholder
-img: assets/img/paper_img_(14).png
+img: assets/img/publication_preview/paper_img_(14).png
 importance: 1
-category: publication
+category: publications
 related_publications: true
 ---
 

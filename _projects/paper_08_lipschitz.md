@@ -2,9 +2,9 @@
 layout: page
 title: Lipschitz-agnostic, efficient and accurate rendering of implicit surfaces
 description: Placeholder
-img: assets/img/paper_img_(15).png
+img: assets/img/publication_preview/paper_img_(15).png
 importance: 1
-category: publication
+category: publications
 related_publications: true
 ---
 
